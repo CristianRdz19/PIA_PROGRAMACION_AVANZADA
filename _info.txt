@@ -1,0 +1,5 @@
+ - Información:
+Compra: 
+Peso: 
+Longitud: 
+Galones: 8.4
